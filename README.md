@@ -6,7 +6,7 @@
 
 <img align="right" src="https://github-readme-streak-stats-five-alpha.vercel.app?user=EQUIWDH" alt="EQUIWDH" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EQUIWDH" alt="EQUIWDH" />
+
 
 Biostatistics programming
 
@@ -15,5 +15,7 @@ Biostatistics programming
 
 - ❤️ swimmer, biker and graduate student.
 - 💬 Email: jinfulong@mail.ustc.edu.cn
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EQUIWDH" alt="EQUIWDH" />
 
 
