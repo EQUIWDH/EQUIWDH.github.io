@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=EQUIWDH&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
 
-<img align="right" src="https://github-readme-streak-stats-five-alpha.vercel.app?user=EQUIWDH" alt="EQUIWDH" />
+<p><img align="right" src="https://github-readme-streak-stats-five-alpha.vercel.app?user=EQUIWDH" alt="EQUIWDH" /> <p>
 
 **About me:**
 I am a graduate student working on Biostatistics programming
