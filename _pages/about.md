@@ -6,5 +6,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Hello Everyone, Welcome to my website, My name is Jin fulong. I aslo get a Arabic name called محمد. I am a swimmer, biker and biostatistics worker!
+                                                                                                                                                                                                          لسلام عليكم  
+ Welcome to my website, my name is Jin fulong. I aslo get a Arabic name called محمد. I am a swimmer, biker and biostatistics worker!
