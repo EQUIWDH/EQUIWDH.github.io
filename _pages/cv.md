@@ -14,20 +14,22 @@ Education
 * M.S. Statistics, University of Science and Technology of China, 2023-2026 (Expected)
 * B.S. Mathematics, Lanzhou University, 2019-2023
 
+Scholarships
+======
+* Second class Scholarship for master graduates (2023-2024)
+* First class Scholarship for master graduates (2023-2024)
+* National Scholarship for undergraduates (2020-2021)
+
 Work experience
 ======
 * Fall 2024: TA (probability theory and mathematical statistics)
   * University of Science and Technology of China
-  * Duties includes: Updates and improvements to template
+  * Duties includes: Teaching assistance
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computerings
+  Python, R, C++ coding, designing for statistical simulations
 
 Publications
 ======
@@ -35,18 +37,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
