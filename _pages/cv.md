@@ -28,12 +28,11 @@ Work experience
 
 Skills
 ======
-* Computerings
+* Computering
   Python, R, C++ coding, designing for statistical simulations
+* Mathematics
+  Survival analysis with counting process theory
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
