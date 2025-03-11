@@ -8,7 +8,7 @@
 **About me:**
 I am a graduate student working on Biostatistics programming
 - ❤️ swimmer, biker and graduate student.
-- [CV](https://yourusername.github.io/path/to/resume.pdf)
+- :student: Here is my [CV](https://github.com/EQUIWDH/EQUIWDH.github.io/blob/main/Jin_Fulong_s_CV.pdf)
 - 💬 Email: jinfulong@mail.ustc.edu.cn
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EQUIWDH" alt="EQUIWDH" />
 
