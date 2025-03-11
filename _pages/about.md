@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
                                                                                                                                                                                                       
- # Welcome to my website!
+## Welcome to my website!
 
 My name is **Jin Fulong**, and I also go by the Arabic name **محمد (Muhammad)**. I am currently a graduate biostatistics professional, passionate about leveraging data to drive insights and solutions in the field of health and research.
 
