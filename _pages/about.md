@@ -20,7 +20,7 @@ I am a **Master’s student in Biostatistics** in USTC , where I developed a str
 
 ## Skills
 - **Statistical Analysis**: Proficient in R, Python, and SAS for data manipulation, visualization, and modeling.
-- **Data Visualization**: Skilled in creating interactive dashboards and reports using tools like `` and `ggplot2`.
+- **Data Visualization**: Skilled in creating interactive dashboards and reports using tools like `matplotlib` and `ggplot2`.
 - **Research Methodology**: Strong understanding of experimental design, clinical trials, and epidemiological studies.
 
 ---
