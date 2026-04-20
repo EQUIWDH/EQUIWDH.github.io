@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## Welcome to my website!
 
-My name is **Jin Fulong**, and I also go by the Arabic name **賲丨賲丿 (Muhammad)**. I am currently a graduate biostatistics professional, passionate about leveraging data to drive insights and solutions in the field of health and research.
+My name is **Jin Fulong**, and I also go by the Arabic name محمد **(Muhammad)**. I am currently a graduate biostatistics professional, passionate about leveraging data to drive insights and solutions in the field of health and research.
 
 ---
 
@@ -30,11 +30,7 @@ I am a **graduate** **student in Statistics** in USTC , where I developed a stro
 
 - **Public Health**: Applying biostatistics to address global health challenges.
 - **Data Science**: Exploring new methods in machine learning and AI for healthcare.
-- **Cultural Exchange**: Bridging cultures through language and collaboration (hence my Arabic name, 賲丨賲丿!).
-
-## Curriculum Vitae
-
-[Download](../files/JIN FULONG CV.pdf)
+- **Cultural Exchange**: Bridging cultures through language and collaboration (hence my Arabic name, محمد!).
 
 ## Contact Me
 
