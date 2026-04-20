@@ -10,3 +10,5 @@ I am currently a graduate student in USTC, interested in High-dimensional Statis
 
 - ❤️ swimmer, biker and CS2
 - 💬 Email: jinfulong[AT]mail[DOT]ustc[DOT]edu[DOT]cn
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EQUIWDH" alt="EQUIWDH" />
